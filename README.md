@@ -32,3 +32,6 @@ My code must be reviewed by another developer via pull requests on a git server.
 
 ### Functional tests
 Colloquially know as 'unit tests' functional tests guarantee the functionality of the product. They are by far the least labour intensive tests to write and pay off that effort as soon as you've written them by speeding up development and reducing the number of bugs.
+
+### Continuous delivery
+By using an infarastructure that supports continuous delivery the project gets built and tested continuously. This way problems are detected in time and the code is in a more deployable state at all times.
