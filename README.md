@@ -24,6 +24,18 @@ Transit time is lost time. I try to get at least something out of it with audiob
 
 In the least favorable scenario I would work four out of five days on site with one hour transit. This adds up to eight hours transit per fourty hour work week. That's twenty percent! 
 
+### Demarcated units of work
+Work has to be split up in distinct units that have a state (backlog, to-do, doing, in review, done).
+
+### Functional review
+After automated testing a person will look at my work to review it and either mark it accepted or send it back to me.
+
+### Acceptance criteria
+Units of work need to come with acceptance criteria. I will work to meet the acceptance criteria. Someone will then review my work according to those acceptance criteria. If the acceptance criteria are met this unit of work is concidered done. New acceptance criteria will be added to a (new) unit of work in the backlog; not to the one in review or one I'm already working on.
+
+### Feature + issue management system
+Systems like JIRA are exellent for managing units work. Without one this information ends up in the ether between phone calls, emails and people standing at your desk at inconvenient times.
+
 ### Version control with git
 This is the industry standard, at least in my sector. I will not work with `svn` or other version control systems.
 
