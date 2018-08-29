@@ -35,3 +35,6 @@ Colloquially know as 'unit tests' functional tests guarantee the functionality o
 
 ### Continuous delivery
 By using an infarastructure that supports continuous delivery the project gets built and tested continuously. This way problems are detected in time and the code is in a more deployable state at all times.
+
+### Automated deployment
+There's plenty of solutions out there where the infrastructure watches the `master` branch on the `git` repository automatically deploying any changes. There is no reason to manually deploy products anymore and I won't do it.
