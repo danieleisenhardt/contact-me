@@ -14,7 +14,7 @@ Therefore any attempt to contact me that doesn't comply to this list will be rep
 ### An hourly rate (number)
 Communicate an hourly rate as an `integer`. Words like "competitive" or "conforming to market rates" are not `integers` they are `strings`, furthermore they tell me nothing, because when you ask two people to put a number on those words you'll end up getting at least three answers.
 
-*I've heard criticisms of this requirement that it comes of as if money is the only thing that matters to me. This is not true at all. However there are rates that are simply to low for me to work at and even if they aren't there might be a better offer on the tabel from one of your competetors. It's best to know this right away so neither of us lose any time on discussing offers that are not going to work out anyway.*
+*I've heard criticisms of this requirement that it comes of as if money is the only thing that matters to me. This is not true at all. However there are rates that are simply to low for me to work at and even if they aren't there might be a better offer on the table from one of your competetors. It's best to know this right away so neither of us lose any time on discussing offers that are not going to work out anyway.*
 
 ### At least one day remote
 Although being on-site has it's advantages there's no need to go overboard. I find it very useful to have at least one weekday where I can plan my own time freely and save some transit time.
