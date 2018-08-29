@@ -29,3 +29,6 @@ This is the industry standard, at least in my sector. I will not work with `svn`
 
 ### Code reviews with pull requests (git-flow)
 My code must be reviewed by another developer via pull requests on a git server. I highly reccomend the git-flow strategy for this. Obviously I will also be available to review code from other developers.
+
+### Functional tests
+Colloquially know as 'unit tests' functional tests guarantee the functionality of the product. They are by far the least labour intensive tests to write and pay off that effort as soon as you've written them by speeding up development and reducing the number of bugs.
