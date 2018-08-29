@@ -11,6 +11,8 @@ If you're an IT recruiter interested in aquiring my services for a client (or if
 
 Therefore any attempt to contact me that doesn't comply to this list will be replied to with only a short polite request to comply to the list. It will save us both a lot of time in the long run, because the vast majority of offers I've had in the past turned out to be a mismatch. Something we could have known much faster if the important information had been communicated from the start.
 
+These requirements are all mandetory, but I can help out if the prospect client isn't there yet on technical matters. In this case this will be the first work I'll do for them, because I will not be working on any functionality without the infrastructure being in place.
+
 ### An hourly rate (number)
 Communicate an hourly rate as an `integer`. Words like "competitive" or "conforming to market rates" are not `integers` they are `strings`, furthermore they tell me nothing, because when you ask two people to put a number on those words you'll end up getting at least three answers.
 
@@ -50,3 +52,11 @@ By using an infarastructure that supports continuous delivery the project gets b
 
 ### Automated deployment
 There's plenty of solutions out there where the infrastructure watches the `master` branch on the `git` repository automatically deploying any changes. There is no reason to manually deploy products anymore and I won't do it.
+
+### Respectable company and project
+Work isn't just about the money or even the joy of work (sometimes). It also provides a feeling of accomplisment and is often a topic of conversation at dinnerparties with friends and family.
+
+Therefore I will not work with companies and projects involved in for example: cluster munitions, predetory lending, pornography, the promotion of gambling to people on wellfare or forcing clinical drugs on perfectly functioning elementary school children.
+
+### Clear lines of communication
+I need to be made clearly aware in writing (via email is fine) who the people are I'm working with and who I should contact for what topic. For example there may be a Lead Programmer for technical matters, a Deparment Manager for organizational matters and a HR Representative for personal matters.
